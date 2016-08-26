@@ -1,0 +1,16 @@
+{
+  "name": "kappa-chat",
+  "description": "Kappa Chat",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
